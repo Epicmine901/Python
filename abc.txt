@@ -1,0 +1,31 @@
+<!--#2-3    
+        <h1>H1</h1>
+        <h2>H2</h2>
+        <hr>--chiziq
+        <h3>H3</h3>
+        <h4>H4</h4>
+        <h5>H5</h5>
+        <h6>H6</h6>
+        <p>p</p>
+        <img src="C:\Users\hest\Pictures\photo_2024-04-20_19-38-34.jpg" alt="Img not found">
+-->
+<!--#6
+    <p style="color: Blue;">kok rangi</p>
+    <p style="color: Red;text-align: center;">qizil rangi ortada</p>
+-->
+<!--#8
+    <b>Jirniy</b><br>
+        <i>Italic</i><br>
+        <del>delete</del>
+        <p>h<sub>2</sub>0</p>
+        <p>x<sup>2</sup></p>
+-->
+<!--
+    <style>
+            p {
+                color: red; ---rang
+                font-weight:lighter; ----stil
+                text-align: end; ----joylashish
+            }
+        </style>
+-->
